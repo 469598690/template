@@ -48,8 +48,4 @@ npm run build
 ├── package.json              // 项目配置文件
 </pre>
 
-![image](https://raw.githubusercontent.com/zzmhot/vue-admin/images/images_1.jpg)
-<br />
-![image](https://raw.githubusercontent.com/zzmhot/vue-admin/images/images_2.jpg)
-<br />
-![image](https://raw.githubusercontent.com/zzmhot/vue-admin/images/images_3.jpg)
+
